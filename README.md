@@ -4,11 +4,17 @@ MA005.K21 - Xác Suất Thống Kê
 
 
 **Giảng Viên:** 
-- Đỗ Trọng Hợp
+- Nguyễn Thị Hồng Nhung
 
 
 
+## Thực hiện
 
+```
+Phạm Đức Thể
+
+Thể ~/~
+```
 
 
 
